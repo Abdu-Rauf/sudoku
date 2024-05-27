@@ -59,4 +59,4 @@ if solve_sudoku(board):
     print("Solution:")
     print_board(board)
 else:
-    print("No solution exists.")
+    print("No solution exists.and is updated btw")
